@@ -1,16 +1,16 @@
-{
+p{
     text-align: center;
     background: #CCCCCC;
-}
+    }
 
-h1 {
-    background: #CCCCCC;
-}
+    h1 {
+        background: #CCCCCC;
+        }
 
-body {
-    background: #CCCCCC;
-}
+        body {
+            background: #CCCCCC;
+            } 
 
-p {
-    background: #CCCCCC;
-}
+em strong {
+    color: red;
+    }
